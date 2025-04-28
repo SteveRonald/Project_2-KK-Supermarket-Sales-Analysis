@@ -62,7 +62,10 @@ Several visualizations and a dashboard were created to explore the supermarketâ€
 
 ### Dashboard Creation:
 - Built a comprehensive dashboard that consolidated key metrics and answers to critical business questions in a single, easy-to-interpret view.
-- here is the link to access the excel file dashboard with other details[here]()
+- here is the link to access the excel file dashboard with other details  [download here](https://github.com/SteveRonald/Project_2-KK-Supermarket-Sales-Analysis/blob/main/KK%20Supermarket.xlsx)
+- 
+- Here is the overview of the dashboard layout     ![dashboard](https://github.com/user-attachments/assets/02182d24-2a14-460c-b756-6dc541060e6b)
+
 
 The dashboard included the following:
 - Total Sales
