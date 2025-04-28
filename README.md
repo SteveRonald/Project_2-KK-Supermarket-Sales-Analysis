@@ -61,7 +61,8 @@ Several data cleaning and preparation steps were performed to ensure the dataset
 Several visualizations and a dashboard were created to explore the supermarket’s sales and profit patterns:
 
 ### Dashboard Creation:
-- Built a comprehensive dashboard that consolidated key metrics and answers to critical business questions in a single, easy-to-interpret view. 
+- Built a comprehensive dashboard that consolidated key metrics and answers to critical business questions in a single, easy-to-interpret view.
+- here is the link to access the excel file dashboard with other details[here]()
 
 The dashboard included the following:
 - Total Sales
