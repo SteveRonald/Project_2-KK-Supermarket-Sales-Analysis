@@ -73,21 +73,24 @@ The dashboard included the following:
 
 ### Insights:
 - **Product Performance**: Bread generated the highest sales at $9,214, while Apples had the lowest at $6,252.
+-   ![product](https://github.com/user-attachments/assets/e1a8a4a5-2096-49d3-9fbc-0d25201b4ae8)
+
 - **Sales by Cashier**: James achieved the highest sales totaling $13,894, while Grace had the lowest at $12,402.
+-   ![cashier](https://github.com/user-attachments/assets/bb003939-29b4-4650-9431-4fa359ba3ec3)
+
 - **Monthly Sales Trends**: September ($7,296) and October ($7,273) had the highest monthly sales, while March ($5,871) had the lowest.
+-  ![monthly](https://github.com/user-attachments/assets/6127f87d-1e81-45a5-a695-3330bb52b738)
+
 - **Profit per Cashier**: Grace led with a profit of $3,490.69, while Samuel had the lowest profit at $1,412.31.
+-    ![cashier_profit](https://github.com/user-attachments/assets/80de83a1-fefb-40d6-b5eb-5a68f2836f62)
+
 - **Profit per Product**: Bread was the most profitable product, generating $3,331 in profit, while Eggs generated the least at $246.
+-  ![prod_profit](https://github.com/user-attachments/assets/8e0e9a87-ccd0-4a61-b625-53e1ab420a67)
+
 - **Profit per Month**: November recorded the highest profit at $2,346, while April had the lowest at $163.
+- 
+![monthly1](https://github.com/user-attachments/assets/536f8e67-6913-47d9-9e4d-4b583a244996)
 
-### Charts:
-To visualize the analysis, you can link your charts here. For example:
-
-- **Product Performance Chart**:
-  ![Product Performance](path_to_chart_image.png)
-- **Sales Over Time**:
-  ![Sales Over Time](path_to_chart_image.png)
-
-*(Replace `path_to_chart_image.png` with the actual file paths or links to your charts.)*
 
 ## Key Insights
 - **Overall Profitability**: The supermarket achieved positive profits, with Bread contributing the highest revenue and profit margins.
