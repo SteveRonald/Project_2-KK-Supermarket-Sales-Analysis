@@ -121,6 +121,6 @@ This analysis provides a comprehensive understanding of KK Supermarket's sales p
 For further information or questions regarding this project, feel free to reach out:
 
 - Email: [kothroni863@gmail.com](mailto:your-email@example.com)
-- GitHub: [Your GitHub Profile](https://github.com/SteveRonald)
+- GitHub: [click here](https://github.com/SteveRonald)
 
 
