@@ -1,4 +1,4 @@
-# 📊 Project_2-KK-Supermarket-Sales-Analysis
+# 📊Supermarket-Sales-Analysis
 
 ## Short Description:
 This project aims to analyze the sales data of KK Supermarket to determine whether the business made a profit or not. Additionally, it identifies the key factors that contributed to the profit or loss and explores the reasons behind them.
